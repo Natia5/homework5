@@ -1,0 +1,33 @@
+header{
+	background: #F6F8F9;
+	width: 100%;
+	top: 0;
+	position: fixed;
+	font-family: "roboto", sans-serif;
+
+}
+.logo{
+	font-size: 13px;
+	color: #FA6980;
+	margin-right: 92px;
+	padding-left: 20px;
+}
+.nav-a{
+	display: inline-block;
+	vertical-align: middle;
+	color: #343638;
+
+}
+li{
+	display: inline-block;
+	margin: 22px;
+	font-size: 11px;
+
+}
+h2{
+	margin-top: 100px;
+	font-family: "roboto", sans-serif;
+	font-size: 24px;
+	margin-left: 170px;
+	font-weight: bold;
+}
